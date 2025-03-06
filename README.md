@@ -67,7 +67,7 @@ As the **group leader and presenter**, I was responsible for:
 - **Overseeing research and project structure**.
 - **Delivering the presentation** to explain Pigpen Cipher mechanics.
 - **Facilitating the comparison with the Rail Fence Cipher** presented by the other group.
-- **Engaging with the audience** to answer cryptography-related questions.
+- **Engaging with the class ** to answer cryptography-related questions.
 
 ---
 
